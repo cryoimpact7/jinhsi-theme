@@ -1,0 +1,36 @@
+{
+  "name": "jinhsi-thawborn-renewal-theme",
+  "displayName": "Jinhsi: Thawborn Renewal Theme",
+  "description": "Visual Studio Code theme inspired by Jinhsi from Wuthering Waves",
+  "version": "1.0.0",
+  "publisher": "knight-of-thunder",
+  "author": "cryoimpact7",
+  "engines": {
+    "vscode": "^1.98.0"
+  },
+  "categories": [
+    "Themes",
+    "Other"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "  https://github.com/cryoimpact7/jinhsi-theme"
+  },
+  "keywords": [
+    "Dragon",
+    "Jinhsi",
+    "dark",
+    "theme",
+    "color-theme",
+    "Wuthering Waves"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Thawborn Renewal Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Thawborn Renewal Theme-color-theme.json"
+      }
+    ]
+  }
+}
