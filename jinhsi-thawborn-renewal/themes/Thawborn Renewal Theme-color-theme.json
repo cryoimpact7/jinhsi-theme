@@ -661,6 +661,8 @@
 		"list.inactiveSelectionBackground": "#00000088",
 		"list.dropBackground": "#798b8f88",
 		"list.highlightForeground": "#fdff8a",
+		"list.focusForeground":"#ff0000",
+		"descriptionForeground":"#fdff8a",
 
 
 		"editor.background": "#191e20",
