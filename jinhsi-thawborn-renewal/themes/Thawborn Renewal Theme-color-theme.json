@@ -59,7 +59,7 @@
 		{
 			"scope": "keyword",
 			"settings": {
-				"foreground": "#1688d4",
+				"foreground": "#6292b9",
 				"fontStyle": "bold"
 			}
 		},
@@ -651,12 +651,13 @@
 		"dropdown.border": "#b4f4ff",
 		"dropdown.foreground":"#f3fd92",
 		
-		"button.background": "#002d42",
-		"button.foreground":"#f8f187",
+		"button.background": "#2dbcff",
+		"button.foreground":"#fffaad",
 
 		"list.activeSelectionBackground": "#000000",
 		"quickInputList.focusBackground": "#67b1c7",
-		"list.hoverBackground": "#004454AA",
+		"list.hoverBackground": "#b1f3ffd3",
+		"list.hoverForeground":"#f7ffab",
 		"list.inactiveSelectionBackground": "#00000088",
 		"list.dropBackground": "#798b8f88",
 		"list.highlightForeground": "#fdff8a",
@@ -723,7 +724,7 @@
 		"tab.unfocusedInactiveForeground":"#ffffff",
 		"tab.unfocusedInactiveBackground":"#0d022c",
 
-		"gitDecoration.modifiedResourceForeground":"#71ffc9",
+		"gitDecoration.modifiedResourceForeground":"#fff344",
 		"gitDecoration.stageModifiedResourceForeground":"#f2ffab",
 		
 		"activityBar.background": "#000000",
@@ -797,19 +798,20 @@
 		"notificationCenterHeader.foreground":"#f0ff9b",
 
 
-		"terminal.ansiBlue":"#093e5c",
+		"terminal.ansiBlue":"#c1e6ff",
 		"terminal.ansiBrightBlue":"#fcf481",
-		"terminal.ansiBrightGreen":"#0af1f1",
+		"terminal.ansiBrightGreen":"#1dcaff",
 		"terminal.background":"#2b2f30",
 		"terminal.foreground":"#fff178",
-		"terminal.ansiMagenta":"#00f5e0",
+		"terminal.ansiMagenta":"#24deff",
 		"terminal.ansiGreen":"#ffffff",
 		"terminal.ansiCyan":"#fff23f",
 		"terminal.ansiBrightCyan":"#95e2f5",
-		"terminal.ansiYellow":"#6feece",
-		"terminal.ansiBrightYellow":"#00ffb3",
-		"terminal.ansiRed":"#009efa",
-		"terminal.ansiBrightRed":"#00ffd5",
+		"terminal.ansiYellow":"#6fd5ee",
+		"terminal.ansiBrightYellow":"#dfdfdf",
+		"terminal.ansiRed":"#ffffff",
+		"terminal.ansiBrightRed":"#00ccff",
+		"scmGraph.historyItemBaseRefColor":"#75c8ff",
 
 		"commandCenter.activeBackground":"#000000",
 		"commandCenter.activeForeground":"#fff89a",
