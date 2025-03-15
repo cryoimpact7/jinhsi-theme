@@ -10,3 +10,4 @@ All notable changes to the "jinhsi-thawborn-renewal-theme" extension will be doc
 - v1.0.3 Other UI Updates
 - v1.0.4 Fixing issue where descriptions were not visible on mouse hover in the extensions tab
 - v1.1.0 Readjustment of Java, Python and Bash color schematic
+- v1.1.1 Change menu background color
