@@ -43,7 +43,7 @@
 			"name": "Number",
 			"scope": "constant.numeric",
 			"settings": {
-				"foreground": "#D33682"
+				"foreground": "#d1d1d1"
 			}
 		},
 		{
@@ -53,13 +53,13 @@
 				"variable.other"
 			],
 			"settings": {
-				"foreground": "#84dcff"
+				"foreground": "#f2fdff"
 			}
 		},
 		{
 			"scope": "keyword",
 			"settings": {
-				"foreground": "#6292b9",
+				"foreground": "#f6ffa3",
 				"fontStyle": "bold"
 			}
 		},
@@ -135,14 +135,14 @@
 				"constant.other"
 			],
 			"settings": {
-				"foreground": "#fffd7a"
+				"foreground": "#fffc57"
 			}
 		},
 		{
 			"name": "Inherited class",
 			"scope": "entity.other.inherited-class",
 			"settings": {
-				"foreground": "#65a7c5"
+				"foreground": "#85d8ff"
 			}
 		},
 		{
@@ -194,7 +194,7 @@
 			"name": "Library Exception",
 			"scope": "support.type.exception",
 			"settings": {
-				"foreground": "#e5ff00"
+				"foreground": "#a2b3af"
 			}
 		},
 		{
@@ -405,7 +405,7 @@
 				"entity.name.function.python"
 			],
 			"settings": {
-				"foreground": "#a8d5ff",
+				"foreground": "#83d8ff",
 				"fontStyle": "bold"
 			}
 		},
@@ -424,7 +424,7 @@
 				""
 			],
 			"settings": {
-				"foreground": "#e6f0b2"
+				"foreground": "#9ce8ff"
 			}
 		},
 		{
@@ -452,7 +452,7 @@
 				"meta.object-literal.key.ts"
 			],
 			"settings": {
-				"foreground": "#4dbef3"
+				"foreground": "#ddf0ff"
 			}
 		},
 		{
@@ -492,7 +492,7 @@
 				"support.constant"
 		],
 			"settings": {
-				"foreground": "#96f5ed",
+				"foreground": "#ffffff",
 				"fontStyle": "bold"
 			}
 		},
@@ -507,7 +507,7 @@
 				"source.cs storage.type"
 			],
 			"settings": {
-				"foreground": "#e8f386"
+				"foreground": "#f7ffae"
 			}
 	},
 		{
@@ -524,14 +524,14 @@
 				"variable.object.property.ts"
 			],
 			"settings": {
-				"foreground": "#cdece7"
+				"foreground": "#97fceb"
 			}
 		},
 		{
 			"name": "Class, Support Special Case Python Function Call",
 			"scope":"meta.function-call.generic.python",
 			"settings": {
-				"foreground": "#fbffff"
+				"foreground": "#b9efff"
 			}
 		},
 		{
@@ -546,7 +546,7 @@
 		{
 			"scope": "storage.type",
 			"settings": {
-				"foreground": "#56ddff"
+				"foreground": "#a2fad8"
 			}
 		},
 		{
@@ -555,7 +555,7 @@
 				"constant.character.escape"
 			],
 			"settings": {
-				"foreground": "#51c8ec"
+				"foreground": "#54fff6"
 			}
 		},
 		{
@@ -576,7 +576,7 @@
 				"string.quoted.other"
 			],
 			"settings": {
-				"foreground": "#56ebff",
+				"foreground": "#f9ffa1",
 			}
 		},
 		{
@@ -587,13 +587,13 @@
 				"support.variable"
 			],
 			"settings": {
-				"foreground": "#feffac"
+				"foreground": "#acf5ff"
 			}
 		},
 		{
 			"scope": "meta.structure.dictionary.key.python",
 			"settings": {
-				"foreground": "#6dd0ee"
+				"foreground": "#8efff6"
 			}
 		},
 		{
@@ -651,7 +651,7 @@
 		"dropdown.border": "#b4f4ff",
 		"dropdown.foreground":"#f3fd92",
 		
-		"button.background": "#2dbcff",
+		"button.background": "#a7e3ff",
 		"button.foreground":"#fffaad",
 
 		"list.activeSelectionBackground": "#000000",
@@ -675,7 +675,7 @@
 		"editorLineNumber.activeForeground": "#49d6e9",
 		"editorLineNumber.foreground": "#9e9e9e",
 		"editorLineNumber.dimmedForeground":"#777577",
-		"editor.selectionBackground": "#0ca0c9",
+		"editor.selectionBackground": "#35c2e9",
 		"minimap.selectionHighlight": "#8ac4eb",
 		"editorIndentGuide.background": "#93A1A180",
 		"editorIndentGuide.activeBackground": "#C3E1E180",
