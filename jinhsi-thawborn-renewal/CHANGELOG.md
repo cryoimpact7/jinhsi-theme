@@ -12,3 +12,4 @@ All notable changes to the "jinhsi-thawborn-renewal-theme" extension will be doc
 - v1.1.0 Readjustment of Java, Python and Bash color schematic
 - v1.1.1 Change menu background color
 - v1.1.2 Change sidebar section header background color
+- v1.1.3 Activity, Tab and Button UI changes

@@ -651,8 +651,8 @@
 		"dropdown.border": "#b4f4ff",
 		"dropdown.foreground":"#f3fd92",
 		
-		"button.background": "#a7e3ff",
-		"button.foreground":"#fffaad",
+		"button.background": "#4d5558",
+		"button.foreground":"#fff679",
 
 		"list.activeSelectionBackground": "#000000",
 		"quickInputList.focusBackground": "#67b1c7",
@@ -712,7 +712,7 @@
 		"editorGroupHeader.tabsBackground": "#181818",
 
 		"tab.activeForeground": "#f3ff85",
-		"tab.activeBackground": "#56c7e4",
+		"tab.activeBackground": "#5c93a8",
 		"tab.inactiveForeground": "#31d4fd",
 		"tab.inactiveBackground": "#141414",
 		"tab.border": "#eeff91",
@@ -732,9 +732,9 @@
 		"activityBar.background": "#000000",
 		"activityBar.activeBorder":"#fffd7b",
 		"activityBarBadge.foreground":"#f4ff8d",
-		"activityBarBadge.background":"#134168",
-		"activityBar.activeBackground":"#0e92cf",
-		"activityBar.inactiveForeground":"#adfffb",
+		"activityBarBadge.background":"#4d84a8",
+		"activityBar.activeBackground":"#313435",
+		"activityBar.inactiveForeground":"#9affe1",
 		"activityBar.foreground":"#f7ff88",
 		"extensionIcon.verifiedForeground":"#a1fff2",
 		"extensionIcon.starForeground":"#fafc81",
