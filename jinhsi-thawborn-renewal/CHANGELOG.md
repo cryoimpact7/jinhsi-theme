@@ -13,3 +13,6 @@ All notable changes to the "jinhsi-thawborn-renewal-theme" extension will be doc
 - v1.1.1 Change menu background color
 - v1.1.2 Change sidebar section header background color
 - v1.1.3 Activity, Tab and Button UI changes
+
+- v2.0.0 Add Peach Blossom Theme
+

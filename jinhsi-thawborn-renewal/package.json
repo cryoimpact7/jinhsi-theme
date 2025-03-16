@@ -2,7 +2,7 @@
   "name": "jinhsi-thawborn-renewal-theme",
   "displayName": "Jinhsi: Thawborn Renewal Theme",
   "description": "Visual Studio Code theme inspired by Jinhsi from Wuthering Waves",
-  "version": "1.1.3",
+  "version": "2.0.0",
   "publisher": "knight-of-thunder",
   "author": "cryoimpact7",
   "icon": "icon.png",
@@ -31,6 +31,11 @@
         "label": "Thawborn Renewal Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/Thawborn Renewal Theme-color-theme.json"
+      },
+      {
+        "label": "Peach Blossom Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Peach Blossom-Theme-color-theme.json"
       }
     ]
   }
