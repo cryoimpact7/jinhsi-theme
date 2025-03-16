@@ -242,14 +242,14 @@
 			"name": "Markup Quote",
 			"scope": "markup.quote",
 			"settings": {
-				"foreground": "#eefd8f"
+				"foreground": "#fa3556"
 			}
 		},
 		{
 			"name": "Markup Lists",
 			"scope": "markup.list",
 			"settings": {
-				"foreground": "#68e6f7"
+				"foreground": "#a1cef2"
 			}
 		},
 		{
@@ -524,7 +524,7 @@
 				"variable.object.property.ts"
 			],
 			"settings": {
-				"foreground": "#ff3e3e"
+				"foreground": "#fca6c2"
 			}
 		},
 		{
@@ -663,6 +663,8 @@
 		"list.inactiveSelectionBackground": "#72727293",
 		"list.dropBackground": "#798b8f88",
 		"list.highlightForeground": "#fdff8a",
+		"list.warningForeground":"#fff238",
+		"list.inactiveSelectionIconForeground":"#a0cdf1",
 		
         "descriptionForeground":"#fdff8a",
 
@@ -711,12 +713,12 @@
 
 		"editorGroup.border": "#00212B",
 		"editorGroup.dropBackground": "#2AA19844",
-		"editorGroupHeader.tabsBackground": "#535353",
+		"editorGroupHeader.tabsBackground": "#a1cef2",
 
-		"tab.activeForeground": "#f3ff85",
-		"tab.activeBackground": "#e44a8f",
-		"tab.inactiveForeground": "#ffaaf4",
-		"tab.inactiveBackground": "#3a3a3a",
+		"tab.activeForeground": "#ecddea",
+		"tab.activeBackground": "#555c83",
+		"tab.inactiveForeground": "#a0cdf2",
+		"tab.inactiveBackground": "#8186a8",
 		"tab.border": "#ffb5b5",
 		"tab.lastPinnedBorder": "#ff84c1",
 		"tab.activeBorderTop":"#5e5e5e",
@@ -727,17 +729,19 @@
 		"tab.unfocusedActiveForeground":"#ffffff",
 		"tab.unfocusedInactiveForeground":"#ffffff",
 		"tab.unfocusedInactiveBackground":"#0d022c",
+		
 
 		"gitDecoration.modifiedResourceForeground":"#fff344",
 		"gitDecoration.stageModifiedResourceForeground":"#f2ffab",
+		"gitDecoration.addedResourceForeground":"#94a6db",
 		
 		"activityBar.background": "#4e4e4e",
 		"activityBar.activeBorder":"#ffb5b5",
 		"activityBarBadge.foreground":"#ff739d",
 		"activityBarBadge.background":"#421f7c",
-		"activityBar.activeBackground":"#555555",
+		"activityBar.activeBackground":"#94a6db",
 		"activityBar.inactiveForeground":"#ced6dc",
-		"activityBar.foreground":"#f090bd",
+		"activityBar.foreground":"#b6366a",
 		"extensionIcon.verifiedForeground":"#ffa1b1",
 		"extensionIcon.starForeground":"#fafc81",
 		"extensionButton.prominentBackground":"#000000",
@@ -747,7 +751,7 @@
 		"menu.selectionBackground":"#a1a1a1",
 		"menu.selectionBorder":"#f5dba3",
 		"menu.selectionForeground":"#fdd6d6",
-
+		
 
 		"panel.border": "#ffb5b5",
 		"panel.background":"#727272",
@@ -763,7 +767,7 @@
 		"sideBarSectionHeader.background":"#fd6d6d",
 		"sideBarSectionHeader.foreground":"#fff6a7",
 		"sideBar.border":"#f0ff9d",
-		"sideBar.foreground":"#ff9e9e",
+		"sideBar.foreground":"#cecece",
 
 		"statusBar.foreground": "#fff9a9",
 		"statusBar.background": "#fd819c",
@@ -818,10 +822,10 @@
 		"scmGraph.historyItemBaseRefColor":"#75c8ff",
 
 		"commandCenter.activeBackground":"#000000",
-		"commandCenter.activeForeground":"#f08ec4",
+		"commandCenter.activeForeground":"#fff12d",
 		"commandCenter.inactiveForeground":"#b3fcff",
 		"commandCenter.background":"#000000",
-		"commandCenter.foreground":"#eee6a4",
+		"commandCenter.foreground":"#ffcc3f",
 		"commandCenter.activeBorder":"#d5d695",
 		"commandCenter.border":"#f08ec4"
 

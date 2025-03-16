@@ -15,4 +15,5 @@ All notable changes to the "jinhsi-thawborn-renewal-theme" extension will be doc
 - v1.1.3 Activity, Tab and Button UI changes
 
 - v2.0.0 Add Peach Blossom Theme
+- v2.0.1 Peach Blossom UI Changes
 
