@@ -658,6 +658,7 @@
 		"list.activeSelectionBackground": "#606061",
         "list.activeSelectionForeground":"#8db1ff",
 		"quickInputList.focusBackground": "#ff8e8e",
+		"quickInputList.focusForeground":"#696969",
 		"list.hoverBackground": "#fa1c71d3",
 		"list.hoverForeground":"#f7ffab",
 		"list.inactiveSelectionBackground": "#72727270",
@@ -738,8 +739,8 @@
 		
 		"activityBar.background": "#4e4e4e",
 		"activityBar.activeBorder":"#ffb5b5",
-		"activityBarBadge.foreground":"#ff739d",
-		"activityBarBadge.background":"#421f7c",
+		"activityBarBadge.foreground":"#f4ff54",
+		"activityBarBadge.background":"#566ca7",
 		"activityBar.activeBackground":"#94a6db",
 		"activityBar.inactiveForeground":"#ced6dc",
 		"activityBar.foreground":"#b6366a",
