@@ -656,12 +656,12 @@
 
 		"list.activeSelectionBackground": "#000000",
 		"quickInputList.focusBackground": "#67b1c7",
-		"list.hoverBackground": "#b1f3ffd3",
+		"list.hoverBackground": "#0091abd3",
 		"list.hoverForeground":"#f7ffab",
 		"list.inactiveSelectionBackground": "#00000088",
 		"list.dropBackground": "#798b8f88",
 		"list.highlightForeground": "#fdff8a",
-		"list.focusForeground":"#ff0000",
+		"list.focusForeground":"#ffea00",
 		"descriptionForeground":"#fdff8a",
 
 
@@ -680,7 +680,7 @@
 		"editorIndentGuide.background": "#93A1A180",
 		"editorIndentGuide.activeBackground": "#C3E1E180",
 		"editorHoverWidget.background": "#4d727c",
-		"editorHoverWidget.foreground":"#f8ff96",
+		"editorHoverWidget.foreground":"#000000",
 
 
 		"editor.selectionHighlightBackground": "#005A6FAA",
@@ -694,7 +694,7 @@
 		"editorBracketHighlight.foreground2": "#84e0ec",
 		"editorBracketHighlight.foreground3": "#72898b",
 		"editor.lineHighlightBorder":"#eaf17f",
-		"editor.selectionForeground":"#ff0000",
+		"editor.selectionForeground":"#fff200",
 
 
 		"peekViewResult.background": "#000000",
@@ -739,6 +739,9 @@
 		"extensionIcon.verifiedForeground":"#a1fff2",
 		"extensionIcon.starForeground":"#fafc81",
 		"extensionButton.prominentBackground":"#000000",
+		"extensionButton.prominentForeground":"#fff679",
+		"extensionButton.background":"#2e96a8d3",
+		"extensionButton.foreground":"#fff679",
 
 		"menu.background":"#5a82b1",
 		"menu.foreground":"#e9f865",

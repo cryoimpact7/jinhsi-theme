@@ -19,4 +19,5 @@ All notable changes to the "jinhsi-thawborn-renewal-theme" extension will be doc
 - v2.0.2 Peach Blossom UI Changes for Terminal (Ubuntu/WSL and Git Bash), List Selection and Menu Adjustments
 - v2.0.3 Peach Blossom UI Changes for Activity Bar Badge and Quick Input List
 - v2.0.4 Peach Blossom UI Change for Git Bash Terminal
+- v2.0.5 Thawborn Renewal Extension Marketplace UI Adjustments
 
