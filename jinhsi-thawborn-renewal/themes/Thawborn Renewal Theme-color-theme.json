@@ -671,7 +671,7 @@
 		"editorWidget.border":"#fdfb89",
 		"editorCursor.foreground": "#ebf37e",
 		"editorWhitespace.foreground": "#93A1A180",
-		"editor.lineHighlightBackground": "#4a4f50",
+		"editor.lineHighlightBackground": "#282b2c",
 		"editorLineNumber.activeForeground": "#49d6e9",
 		"editorLineNumber.foreground": "#9e9e9e",
 		"editorLineNumber.dimmedForeground":"#777577",
